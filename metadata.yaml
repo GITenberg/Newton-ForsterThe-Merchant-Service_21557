@@ -1,0 +1,40 @@
+_repo: Newton-ForsterThe-Merchant-Service_21557
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Captain
+    - Marryat, Kapitein
+    - Marryatt, Captain
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: Pirates, madness, and murder feature in this early (1832) high-seas thriller.
+  Impressed into the British Navy, troubled young Newton Forster endures imprisonment
+  in France and a shipwreck in the West Indies before gaining post on a British East
+  India Company vessel.
+gutenberg_issued: '2007-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Historical fiction'
+- !lcsh 'East India Company -- Fiction'
+- !lcsh 'Great Britain -- History, Naval -- 19th century -- Fiction'
+- !lcsh 'Romantic suspense fiction'
+- !lcsh 'Merchant mariners -- Fiction'
+- !lcsh 'Sea stories'
+title: Newton Forster; Or, The Merchant Service
+url: http://www.gutenberg.org/ebooks/21557
